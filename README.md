@@ -10,6 +10,8 @@ git clone https://github.com/yusay1498/aws-terraform-template.git
 
 rm -rf ./aws-terraform-template/.git
 
+rm -rf ./aws-terraform-template/.github
+
 mv ./aws-terraform-template {移動させたいディレクトリパス}
 ```
 
