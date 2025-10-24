@@ -1,8 +1,7 @@
 locals {
-  name = "${lower(var.environment)}-${var.project}"
+  name = ""
 
   tags = {
-    name        = local.name
-    environment = var.environment
+    # name        = local.name
   }
 }
