@@ -17,7 +17,7 @@ mv ./aws-terraform-template {移動させたいディレクトリパス}
 
 以下にはデプロイ手順なども載っているのでご確認ください。
 
-How to use
+Introduction
 --------------------------------------------------------------------------------
 
 Ensure to read follows first.
